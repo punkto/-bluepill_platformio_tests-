@@ -1,3 +1,5 @@
+// The buzzer is not working with this test. Use test/test_jukebox/main.c instead.
+
 // ~/.platformio/penv/bin/platformio test --environment bluepill_f103c8 -f test_buzzer
 
 #include <stdio.h>
